@@ -80,4 +80,4 @@ fn main() {
 <hr>
 
 # Contributions [기여]
-want contributions? start at [here]()
+want contributions? start at [here](https://github.com/endurejs-ts/estoolkit-rs/blob/master/CONTRIBUTING.md)
